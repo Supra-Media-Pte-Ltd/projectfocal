@@ -1,0 +1,52 @@
+[02-Apr-2024 11:18:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
+[16-Apr-2024 10:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
+[30-Apr-2024 10:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
+[06-May-2024 19:41:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
+[14-May-2024 09:15:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
+[04-Jun-2024 10:03:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
+[11-Jun-2024 01:41:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
+[18-Jun-2024 09:55:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
+[18-Jul-2024 08:36:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
+[16-Sep-2024 06:41:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
+[16-Oct-2024 06:35:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
+[14-Jan-2025 08:13:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
+[14-Feb-2025 16:24:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-content/themes/woodmart/index.php on line 11
