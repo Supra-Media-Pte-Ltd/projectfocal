@@ -1,0 +1,24 @@
+[18-Jun-2024 18:53:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/projectfocal/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-includes/blocks/index.php on line 8
+[14-Jul-2024 23:32:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/projectfocal/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-includes/blocks/index.php on line 8
+[29-Jul-2024 01:01:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/projectfocal/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-includes/blocks/index.php on line 8
+[31-Jul-2024 11:37:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/projectfocal/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-includes/blocks/index.php on line 8
+[20-Sep-2024 08:19:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/projectfocal/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-includes/blocks/index.php on line 8
+[27-Sep-2024 23:03:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/projectfocal/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/projectfocal/public_html/wp-includes/blocks/index.php on line 8
